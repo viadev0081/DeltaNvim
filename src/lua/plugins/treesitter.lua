@@ -8,7 +8,10 @@ ts.setup {
         'rust', 
         'bash', 
         'nasm',
-        'fortran'
+        'fortran',
+        'go', 'gomod',
+        'haskell',
+        'zig',
     }, 
     
     auto_install = true,
