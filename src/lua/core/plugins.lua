@@ -66,11 +66,14 @@ require("lazy").setup({
 
     -- themes
     { 'catppuccin/nvim',          name = "catppuccin", },
-    { 'ellisonleao/gruvbox.nvim', name = "gruvbox" },
-    { 'neanias/everforest-nvim',  version = false, name = "everforest" },
+    -- { 'ellisonleao/gruvbox.nvim', name = "gruvbox" },
+    { "https://gitlab.com/motaz-shokry/gruvbox.nvim", name = "gruvbox" }, 
+    -- { 'neanias/everforest-nvim',  version = false, name = "everforest" },
+    { 'sainnhe/everforest' },
     { 'AlexvZyl/nordic.nvim'  },
     { 'rebelot/kanagawa.nvim' },
     { 'folke/tokyonight.nvim' },
+    { 'Shatur/neovim-ayu' },
     { 'f4z3r/gruvbox-material.nvim' },
     { 
         'navarasu/onedark.nvim',
