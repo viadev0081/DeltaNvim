@@ -2,6 +2,7 @@ require("themery").setup({
     themes = {
         "catppuccin-mocha", -- "catppuccin-mocha", 
         "tokyonight-night",
+        "ayu",
         "default",
         "dracula",
         "onedark",
