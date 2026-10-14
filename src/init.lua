@@ -13,6 +13,7 @@ require('themes.nordic')
 require('themes.dracula')
 require('themes.rose-pine')
 require('themes.tokyo-night')
+require('themes.base16')
 
 -- LSP сервера для языков. В main.lua они как раз запускаются с конфигами.
 require('lsp.main')
