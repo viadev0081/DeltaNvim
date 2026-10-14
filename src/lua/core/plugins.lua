@@ -87,6 +87,7 @@ require("lazy").setup({
     },
     { "Mofiqul/dracula.nvim", lazy = false },
     { 'rose-pine/neovim',     name = "rose-pine", lazy = false },
+    { 'RRethy/base16-nvim' },
 
     { 'hrsh7th/cmp-nvim-lsp' },
     { 'hrsh7th/cmp-buffer'   },
