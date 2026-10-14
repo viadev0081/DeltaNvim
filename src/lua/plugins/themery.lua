@@ -3,6 +3,7 @@ require("themery").setup({
         "catppuccin-mocha", -- "catppuccin-mocha", 
         "tokyonight-night",
         "ayu",
+        "base16-classic-dark",
         "default",
         "dracula",
         "onedark",
