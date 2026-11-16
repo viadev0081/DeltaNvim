@@ -13,6 +13,7 @@ require("themery").setup({
         "everforest",
         "nordic",
         "kanagawa-dragon",
+        "kanagawa-paper",
         "kanagawa-wave",
     }, 
     livePreview = true, 
