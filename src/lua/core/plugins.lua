@@ -72,6 +72,7 @@ require("lazy").setup({
     { 'sainnhe/everforest' },
     { 'AlexvZyl/nordic.nvim'  },
     { 'rebelot/kanagawa.nvim' },
+    { "thesimonho/kanagawa-paper", branch = "neovim", lazy = false },
     { 'folke/tokyonight.nvim' },
     { 'Shatur/neovim-ayu' },
     { 'f4z3r/gruvbox-material.nvim' },
